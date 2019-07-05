@@ -25,7 +25,8 @@
 /src/sdk/bootdisk/bin/hello
 /src/sdk/c.img
 
-
+node_modules
+!node_modules/gitbook-plugin-splitter
 .grunt
 _book
 .idea/
