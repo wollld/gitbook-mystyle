@@ -1,0 +1,49 @@
+{
+    "title" : "数据治理操作手册",
+    "author" : "华傲数据",
+    "description" : "数据治理操作手册",
+    "language" : "zh-hans",
+	"plugins":[
+        "-sharing",
+        "-lunr", 
+        "search-pro",
+        "back-to-top-button",
+        "folding-chapters",
+        "insert-logo",
+        "code",
+        "emphasize",
+        "splitter",
+        "hide-element",
+        "popup"
+	],
+	"pluginsConfig": {
+        "folding-chapters":{},
+		"fontSettings": {
+            "theme": "white",
+            "family": "serif",
+            "size": 1
+        },
+        "insert-logo": {
+          "url": "/images/logo.png",
+          "style": "background: none;"
+        },
+        "hide-element": {
+            "elements": [".gitbook-link"]
+        }
+	},
+    "styles": {
+        "website": "styles/website.css"
+    },
+    "links": {
+        "sidebar": {
+            
+        },
+        "sharing": {
+            "google": null,
+            "facebook": null,
+            "twitter": null,
+            "weibo": null,
+            "all": null
+        }
+    }
+}
